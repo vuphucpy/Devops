@@ -1,0 +1,8 @@
+https://chocolatey.org/docs/installation
+choco install virtualbox --version=7.0.8 -y
+choco install vagrant --version=2.3.4 -y
+choco install vagrant --version=2.3.4 -y
+choco install corretto11jdk -y
+choco install maven -y
+choco install awscli -y
+choco install vscode -y
