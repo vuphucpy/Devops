@@ -1,0 +1,5 @@
+command		options		arguments
+ls
+ls			-l
+ls			-l			/tmp/
+cp			-r			dev backupdir/
