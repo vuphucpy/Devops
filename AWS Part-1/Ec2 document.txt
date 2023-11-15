@@ -1,0 +1,6 @@
+EC2
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html
+EC2 Instances
+https://aws.amazon.com/vi/ec2/instance-types/
+EC2 Security Group
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-security-groups.html

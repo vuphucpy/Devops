@@ -1,0 +1,2 @@
+https://awscli.amazonaws.com/v2/documentation/api/latest/index.html
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
